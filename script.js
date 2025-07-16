@@ -341,7 +341,7 @@ document.addEventListener('DOMContentLoaded', function() {
         searchQuery: '',
         currentUser: JSON.parse(localStorage.getItem('currentUser')) || {
             name: "Supriya Singh",
-            email: "supriyasinghpvt@gmail.com",
+            email: "supriyasingh123gmail.com",
             avatar: "https://cdn.vectorstock.com/i/2000v/54/67/elegant-initial-s-logo-modern-letter-s-design-vector-35165467.avif"
         }
     };
